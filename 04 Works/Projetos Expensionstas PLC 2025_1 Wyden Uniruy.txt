@@ -1,0 +1,10 @@
+-- PLC
+Barema Seminário: NF: 10 pontos
+Projeto: [0-4]	Equipe: [0-2] 	PPT: [0-1]	Defesa: [0-1]	Tempo: [0-1]	GitHub: [0-1]
+
+https://github.com/Fantalodon/Trabalhos-Faculdade.git - Aziz
+https://github.com/GuilhermeAguzzoli/CLP
+https://github.com/AndrezaLma/Mini-Ind-stria-de-Engarrafamento-Automatizado
+https://github.com/OThalesAlexandreRuy/CLP
+https://github.com/Jotasant/CLP_FINAL
+https://github.com/nunes-moyses/OlaMundo/issues/1
